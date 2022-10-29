@@ -10,7 +10,7 @@ html * {
   }
   
   html {
-	 font-size: 62.5%;
+	 font-size: 72%;
   }
   
   body {
@@ -128,10 +128,10 @@ html * {
   }
   
   label {
-	 color: #b0bec5; /*afc7da*/
+	 color: #747272; /*afc7da*/
 	 display: block;
 	 font-family: 'Varela Round', sans-serif;
-	 font-size: 1.2rem;
+	 font-size: 1.5rem;
 	 letter-spacing: 0.035rem;
 	 margin-bottom: .5rem;
   }
@@ -151,9 +151,9 @@ html * {
 	 padding: .6rem 1rem; /* The 6px vertically centers text on FF */
 	 width: 100%;
 	 background-color: #fff;
-	 border: .1rem solid #c7d6de; /*c7d6de*/
+	 border: .1rem solid #278dc4; /*c7d6de*/
 	 border-radius: .5rem;
-	 outline: 0;
+	 outline: 1;
 	 appearance: none;
 	 box-shadow: 0;
 	 box-shadow: none;  
@@ -252,9 +252,9 @@ html * {
 	 transform: translateY(-7px);
   }
   .form__buttons {
-	 background: #FFF;
 	 text-align: center;
 	 padding-top: 2rem;
 	 padding-bottom: 2rem;
+	 
   }
   
